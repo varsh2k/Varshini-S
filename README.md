@@ -1,2 +1,1 @@
-# Varshini-S
-GPS Tracker
+this project is developed by --Varshini S
